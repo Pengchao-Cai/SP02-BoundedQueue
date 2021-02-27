@@ -2,7 +2,8 @@ CS 6301.002 Short Project 2
 Authors:
 PengChao Cai: pxc190029
 Jie Su: jxs190058
-
+Date:
+2021
 
 Running code:
 	Using eclipse or IDEA to import the package provided.
