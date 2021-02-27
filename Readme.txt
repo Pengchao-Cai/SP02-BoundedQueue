@@ -2,6 +2,7 @@ CS 6301.002 Short Project 2
 Authors:
 PengChao Cai: pxc190029
 Jie Su: jxs190058
+Jack Ma: xxx190000
 Date:
 02-01-2021
 
